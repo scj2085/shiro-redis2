@@ -1,0 +1,18 @@
+server:
+  port: 2223
+  context-path: /account
+#jedis: 
+#  servers: 
+#    - 127.0.0.1:6379
+#    - 10.112.178.21:6379
+#    - 10.112.178.21:6378
+#    - 10.112.178.21:6377
+#    - 10.112.178.21:6376
+#    - 10.112.178.21:6375
+#    - 10.112.178.21:6374
+#redis: 
+#  pool: 
+#    maxActive: 0
+#    maxIdle: 0
+#    maxWait: 0
+#    testOnBorrow: true
